@@ -1,6 +1,6 @@
 - 👋 Hi, Jose Briceño, Frontend Developer.
 - 👀 Bachelor's degree in Computer Science in Proccess, Proficient in Frontend Developement using Vanilla JavaScript, VueJS and React. Open to Work using my skills and open to learn any other technology. I am a person with the ability to learn empirically, quickly and efficiently. I love learning new things and improving those already learned.
-- 🌱 I’m currently looking for a remote job as a trainee frontend developer
+- 🌱 I’m currently working as a Junior FullStack developer. I use ReactJs as front and C# (.net) as Back.
 - 💞️ I’m looking to collaborate on any project to improve my knowledge.
 - 📫 How to reach me ... 
 https://www.linkedin.com/in/jose-briceno5/ - My Linkedin
